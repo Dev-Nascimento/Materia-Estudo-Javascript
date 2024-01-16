@@ -2,5 +2,6 @@
     "workbench.activityBar.iconClickBehavior": "toggle",
     "editor.minimap.scale": 1,
     "editor.minimap.showSlider": "mouseover",
-    "editor.snippetSuggestions": "bottom"
+    "editor.snippetSuggestions": "bottom",
+    "workbench.list.defaultFindMode": "highlight"
 }
